@@ -44,7 +44,8 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 **MARK SPLIT:**
-<img width="677" height="494" alt="image" src="https://github.com/user-attachments/assets/7157f329-c7d8-46cf-a383-dd4e1f727f01" />
+![WhatsApp Image 2025-12-16 at 20 21 48_3261eefd](https://github.com/user-attachments/assets/83c7a207-7831-4c66-ac3f-762d71eeb59b)
+
 
    **RESULT:**
 
